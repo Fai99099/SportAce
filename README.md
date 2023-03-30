@@ -13,7 +13,8 @@ SportAce app: is an application based on the principle of promoting sports colla
 
 Here I will display the main **User Interfaces** in ours application
 <br />
- <h1 style="color:green;">Club page</h1>
+
+ <p style="color:green;">Club page</p>
 
 ![Simulator Screen Shot - iPhone 14 Pro - 2023-03-30 at 21 47 39](https://user-images.githubusercontent.com/108211151/228937100-b8015e51-5a21-4c61-ae4e-25b013558377.png)
 
