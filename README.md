@@ -1,4 +1,5 @@
 # SportAce - IOS App
+![PHOTO-2023-03-20-18-21-55](https://user-images.githubusercontent.com/108211151/228923773-87af6f26-c114-4939-90a8-dd922a81f8df.jpg)
 
 ## About
 SportAce app: is an application based on the principle of promoting sports collaboration with the aim of continuing the fitness health of people
@@ -13,7 +14,7 @@ SportAce app: is an application based on the principle of promoting sports colla
 ## Requirement
 
 
-## Author
+## Authors
 - Fai Almogbel
 - Noha Alarifi
 - Dana Alzahrani
